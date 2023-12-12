@@ -22,7 +22,7 @@ import time
 
 def solution(my_strung, target):
     answer = 0
-    if my_strung in target:
+    if target in my_strung:
         return answer+1
     else:
         return answer
