@@ -61,8 +61,7 @@ def solution(letter):
             answer+=" "
     return answer   
 
-
-print(solution(".-.. .. ..-. . .. ....-.. .. -.- . - .... . .-- .. -. '-.. "))
+print(solution(".-.. .. ..-. . .. ... - .... . .-- .. -. -.."))
 
         
 # Q.3 10점
